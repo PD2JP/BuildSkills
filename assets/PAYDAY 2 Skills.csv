@@ -1,0 +1,91 @@
+カテゴリ,サブカテゴリ,TIER,スキル名,BASIC 説明,BASIC ポイント,BASIC 推奨プラン,ACE 説明,ACE ポイント,ACE 推奨プラン
+MASTERMIND,MEDIC,1,COMBAT MEDIC,仲間を復活させた時、自分とその仲間は5秒間被ダメージが30%減少する。,1,B,復活させた仲間のヘルスが通常よりも30%多くなる。,3,B
+MASTERMIND,MEDIC,2,QUICK FIX,First Aid KitとDoctor Bagの設置時間が50%減少する。,2,B,自分が設置したFirst Aid KitかDoctor Bagを使用した者は120秒間、被ダメージを15%軽減する。,4,B
+MASTERMIND,MEDIC,2,PAINKILLERS,蘇生された仲間は5秒間被ダメージが30%減少する。,2,B,被ダメージがさらに50%減少する。,4,B
+MASTERMIND,MEDIC,3,UPPERS,First Aid Kitの所持数が7個増加する。,3,B,First Aid Kitの所持数が3増加する。自分が配置したFirst Aid Kitの5m範囲でダウンした仲間がいる時、自動的にそのFirst Aid Kitが使われるようになる。この効果は20秒に1回しか発動しない。,6,B
+MASTERMIND,MEDIC,3,COMBAT DOCTOR,Doctor Bagを2設置できる。,3,B,Doctor Bagの使用可能回数が2回増える。1つにつき4回まで使用可能。,6,B
+MASTERMIND,MEDIC,4,INSPIRE,仲間を蘇生させる速度が100%増加し、叫ぶこと（Fキー）で仲間の移動速度が10秒間20%増加する。,4,B,叫ぶことで離れたところから、100%の確率で仲間を蘇生させられるようになる。この効果は20秒に1回しか発動しない。,8,B
+MASTERMIND,CONTROLLER,1,FORCED FRIENDSHIP,ケーブルタイの所持数が4つ増加する。更にケーブルタイで人質を75%速く拘束する事ができる。,1,A,人質を1人確保するたびに、自分と仲間は0.5ダメージずつ軽減される。この効果は8人の人質で最大の効果を発揮する。<br><br>注意:このスキルは他のプレイヤーも取得していても効果は重複しない。,3,B
+MASTERMIND,CONTROLLER,2,CONFIDENT,脅迫の効力と範囲が50%大きくなる。,2,A,同時に2人まで敵を味方に引き入れることができるようになる。,4,B
+MASTERMIND,CONTROLLER,2,JOKER,特殊隊員でない敵を味方にして戦わせる事ができる。<br>ただし、ステルス中は行えず、その敵を一旦降伏させていなければいけない。<br><br>同時に味方にできるのは一人まで。,2,B,味方になった敵は、55%の被ダメージ減少・200%のダメージボーナスを受ける。敵を味方に変換する時間が65%減少する。,4,B
+MASTERMIND,CONTROLLER,3,STOCKHOLM SYNDROME,発砲等でも市民を抑圧できるようになり、脅迫効果が50%長くなる。,3,A,自分の人質は救出されても逃げなくなる。また、自分が収監されたとき、1回のHeistで1回のみアサルト中に人質が自ら人質交換する。,6,C
+MASTERMIND,CONTROLLER,3,PARTNERS IN CRIME,敵を味方にしている場合、移動速度が10%増加する。<br><br>味方にした敵は被ダメージが45%減少する。Jokerの効果と重なる際は加算ではなく、乗算で扱う。,3,B,敵を味方にしている場合、体力が30%増加する。<br><br>味方にした敵の被ダメージがさらに54%減少する。,6,B
+MASTERMIND,CONTROLLER,4,HOSTAGE TAKER,人質か味方にした敵がいる場合、5秒毎に体力が1.5%回復する。,4,B,人質か味方にした敵がいる場合、5秒毎に体力が4.5%回復する。,8,B
+MASTERMIND,SHARPSHOOTER,1,STABLE SHOT,自分の武器の安定性が8増加する。,1,A~B,静止している際、武器の精度が16増加する。,3,A~B
+MASTERMIND,SHARPSHOOTER,2,RIFLEMAN,ADS移行速度が100%になる。<br><br>ADS中でも移動速度が落ちなくなる。,2,B,ズーム倍率が25%増加する。また、サブマシンガン・アサルトライフル・スナイパーライフルの移動中の精度が50%増加する。,4,B
+MASTERMIND,SHARPSHOOTER,2,MARKSMAN,セミオートのサブマシンガン・アサルトライフル・スナイパーライフルの精度が8増加する。,2,A~B,セミオートのサブマシンガン・アサルトライフル・スナイパーライフルのADS中の精度が20%増加する。,4,B
+MASTERMIND,SHARPSHOOTER,3,HIGH VALUE TARGET,自分がスポットした敵に対するダメージを15%上乗せする。,3,B,自分がスポットした10m以上離れた敵に対するダメージを50%上乗せする。<br>スポットの効果時間が100%になる。また、どの武器を使っていても照準するだけで敵の特殊隊員をスポットできるようになる。,6,B
+MASTERMIND,SHARPSHOOTER,3,AGGRESSIVE RELOAD,アサルトライフルのリロード速度を15%短縮する。,3,B,セミオートのサブマシンガン・アサルトライフル・スナイパーライフルで敵をヘッドショットキルした際、それから2秒間リロード時間を40%短縮する。,6,B
+MASTERMIND,SHARPSHOOTER,4,AMMO EFFICIENCY,6秒以内に3回ヘッドショットした際に1発弾を回収する。(セミオートのサブマシンガン・アサルトライフル・スナイパーライフルに限る),4,B,必要なヘッドショットの回数が2回に減少する。,8,B
+ENFORCER,SHOTGUNNER,1,UNDERDOG,18m以内に3人以上が居る際、7秒間ダメージに15%上乗せする。,1,B,18m以内に3人以上が居る際、7秒間被ダメージが15減少する。,3,B
+ENFORCER,SHOTGUNNER,2,SHOTGUN COB,ショットガンのリロード速度が15%増加する。,2,B,ショットガンのリロード速度が更に35%増加する。ショットガンのADS移行速度が125%増加する。,4,B
+ENFORCER,SHOTGUNNER,2,SHOTGUN IMPACT,全てのショットガンの安定性が8増加する。全てのショットガンの威力が5%増加する。,2,B,全てのショットガンの威力が15%増加する。,4,B
+ENFORCER,SHOTGUNNER,3,FAR AWAY,ADS中のショットガンの精度が40%増加する。,3,B,ADS中のショットガンの有効射程が50%長くなる。,6,B
+ENFORCER,SHOTGUNNER,3,CLOSE BY,ショットガンを持っている際、走りながら腰撃ち射撃ができるようになる。,3,B,セミオートのショットガンの腰撃ち射撃の発射レートが35%増加する。また、マガジンを持つショットガンのマガジンが15発増加する。,6,B
+ENFORCER,SHOTGUNNER,4,OVERKILL,ショットガンやOVE9000で敵をキルすると、20秒間だけ威力が75%増加する。,4,B,ダメージボーナスが全ての武器に適用される。ただし発動にはショットガンまたはOVE9000によるキルが必要。また、武器の持ち替え速度が80%速くなる。<br><br>注意:グレネードランチャーには適用されない。,8,B
+ENFORCER,TANK,1,RESILIENCE,アーマーの回復開始時間を15%早くする。,1,B,フラッシュバンの効果時間が75%減少する。,3,B
+ENFORCER,TANK,2,DIE HARD,作業中に受けるダメージが50%減少する。,2,B,全てのBallistic Vestsのアーマー値が20増加する。,4,B
+ENFORCER,TANK,2,TRANSPORTER,バッグの投擲距離が50%増加する。,2,A~B,アーマー値が10増えるごとにバッグ運搬時の移動ペナルティを1%削減する。,4,B
+ENFORCER,TANK,3,SHOCK AND AWE,自分と仲間のアーマー回復開始時間が25%早くなる。,3,B,シールドに射撃または近接攻撃を行った際、一定確率でノックバックするようになる。射撃なら攻撃力に応じた確率で、近接攻撃なら100%の確率でノックバックする。,6,B
+ENFORCER,TANK,3,BULLSEYE,ヘッドショットするとアーマーが5回復する。この効果は2秒毎にしか発動しない。,3,B,ヘッドショットするとアーマーがさらに20回復する。,6,B
+ENFORCER,TANK,4,IRON MAN,アーマーの耐久力が30%増加する。,4,B,Improved Combined Tactical Vestが使用可能になる。,8,B
+ENFORCER,AMMO SPECIALIST,1,SCAVENGER,弾薬箱を拾える範囲が50%拡大する。,1,B,敵を6人殺すたびに弾薬箱が1つ追加で落ちるようになる。,3,B
+ENFORCER,AMMO SPECIALIST,2,BULLETSTORM,自分が設置したAmmo Bagを使用したプレイヤーは最大5秒間、射撃時に弾を消費しなくなる。 取得した弾が多いほど効果時間が伸びる。,2,B,効果時間が最大15秒に延びる。,4,B
+ENFORCER,AMMO SPECIALIST,2,PORTABLE SAW,OVE9000をセカンダリとして装備できる。,2,A~B,ノコギリ刃の携行枚数が1枚増加する。また、OVE9000の開錠の作業効率が40%増加する。,4,A
+ENFORCER,AMMO SPECIALIST,3,EXTRA LEAD,Ammo Bagを2つ置けるようになる。,3,B,Ammo Bagの供給量が50%増加される。,6,B
+ENFORCER,AMMO SPECIALIST,3,SAW MASSACRE,OVE9000で敵を攻撃時ノコギリの消耗が50%減少する。,3,B,シールド越しにOVE9000で攻撃できるようになる。また、OVE9000で敵を倒した際、50%の確率で10m以内の敵はパニックに陥るようになる。,6,B
+ENFORCER,AMMO SPECIALIST,4,FULLY LOADED,弾薬所持量が25%増加する。,4,A~B,"弾薬箱から得られる弾薬の量が75%増加する。弾薬箱を拾った際、5%の確率で1つ投擲武器を回収できる。投擲武器が回収できなかった場合、回収確率が1%ずつ上乗せされていく。投擲武器を回収にした時に確率は最低値にリセットされる。<br><br>注意: 特殊弾を使用したショットガンには適用されない。""Walk-in Closet""と重複しない。",8,B
+TECHNICIAN,ENGINEER,1,THIRD LAW,Sentry Gunの設置弾薬消費が5%減少する。,1,F,Sentry Gunに防御盾が付く。,3,F
+TECHNICIAN,ENGINEER,2,SENTRY TARGETING PACKAGE,Sentry Gunの精度が100%増加する。,2,F,Sentry Gunの砲塔旋回速度が150%増加する。50%の追加弾薬が装填される。,4,F
+TECHNICIAN,ENGINEER,2,ECO SENTRY,Sentry Gunの設置弾薬消費が5%減少する。,2,F,Sentry Gunの耐久力が150%増加する。,4,F
+TECHNICIAN,ENGINEER,3,ENGINEERING,Suppressed Sentry Gunを装備できるようになる。Sentry Gunに比べSuppressed Sentry Gunは敵から狙われにくい。,3,F,Sentry GunをAP弾モードに切り替えることができる。AP弾モードは連射速度は75%に減少するが、威力は250%に増加し、敵のアーマーやシールドを貫通するようになる。,6,F
+TECHNICIAN,ENGINEER,3,JACK OF ALL TRADES,Equipmentの設置・インタラクトする時間が100%短縮する。,3,A~B,2種類のEquipmentを同時に持つことができるようになる。2つ目のEquipmentは通常の半分の量しか持てない。<br><br>Xキーで設置するEquipmentを切り替えることができる。,6,A~B
+TECHNICIAN,ENGINEER,4,TOWER DEFENSE,Sentry Gunがさらに1つ設置できるようになる。,4,F,Sentry Gunがさらに2つ設置できるようになる。,8,F
+TECHNICIAN,BREACHER,1,HARDWARE EXPERT,ドリルとSAWの修復速度が25%早くなる。また、ドリル・SAWが無音になる。直接ドリルが発見されない限り、民間人と警備員が警報を鳴らすことがなくなる。,1,A,故障時に自動で再起動するドリルとSAWを10%の確率で設置する。,3,A
+TECHNICIAN,BREACHER,2,COMBAT ENGINEERING,Trip Mineの爆発範囲が30%増加する。,2,B,Trip Mineのダメージが50%増加する。,4,B
+TECHNICIAN,BREACHER,2,DRILL SAWGEANT,ドリルとSAWの開錠効率が15%増加する。,2,A,ドリルとSAWの開錠効率がさらに15%増加する。,4,A
+TECHNICIAN,BREACHER,3,MORE FIREPOWER,Shaped Chargeを1つ、Trip Mineを4つ追加で持てるようになる。,3,A,Shaped Chargeをさらに2つ、Trip Mineをさらに7つ追加で持てるようになる。,6,A
+TECHNICIAN,BREACHER,3,KICKSTARTER,ドリルとSAWの自動修理確率が20%増加する。,3,A,近接攻撃を故障したドリルに当てることで、50%の確率でドリルを修理することができるようになる。この効果の発動させるチャンスは故障するたびに一回しかない。,6,A
+TECHNICIAN,BREACHER,4,FIRE TRAP,Trip Mineが起爆すると炎を撒き散らし、直径4mの範囲を10秒間炎上させる。,4,B,Trip Mineの炎上効果が10秒間、炎上範囲が50%増加する。,8,B
+TECHNICIAN,OPPRESSOR,1,STEADY GRIP,自分の武器の精度が8増加する。,1,A~B,自分の武器の安定性が16増加する。,3,A~B
+TECHNICIAN,OPPRESSOR,2,HEAVY IMPACT,自分の射撃が命中するたびに5%の確率でブルドーザーとCaptain Winter以外の敵をよろめかせる。,2,B,よろめく確率が20%へ増加する。,4,B
+TECHNICIAN,OPPRESSOR,2,FIRE CONTROL,腰だめ撃ちの際の精度が12増加する。,2,B,移動時の精度ペナルティが20%減少する。,4,B
+TECHNICIAN,OPPRESSOR,3,LOCK N' LOAD,腰だめ撃ちが走りながらできるようになる。,3,B,フルオートのサブマシンガン・ライトマシンガン・アサルトライフル・特殊武器で2体敵を殺した後のリロード時間が最大60%減少する。ただし、装弾数が20発を超える場合、装弾数が1発増えるごとにこのボーナスは1ずつ小さくなり、最小では20%しか効果を与えなくなる。,6,B
+TECHNICIAN,OPPRESSOR,3,SUREFIRE,自分のサブマシンガン・ライトマシンガン・アサルトライフルの装弾数が15増加する。ただし、Lock N' Load ACEには影響を与えない。,3,B,自分の射撃がアーマーを貫通するようになる。<br><br>注意:投擲武器には通用されない。,6,B
+TECHNICIAN,OPPRESSOR,4,BODY EXPERTISE,フルオートのサブマシンガン・ライトマシンガン・アサルトライフル・特殊武器での胴体へのダメージにヘッドショット倍率の33%が上乗せされる。,4,B,フルオートのサブマシンガン・ライトマシンガン・アサルトライフル・特殊武器での胴体へのダメージにヘッドショット倍率の100%が上乗せされる。,8,B
+GHOST,SHINOBI,1,CHAMELEON,下見中(マスクを被るまで)に警戒され始めるまでの時間を25%延長する。また、下見中も、警備員とカメラをスポットできる様になる。,1,A,下見中でもアイテムを拾うことができるようになる。また、自分が獲得したInstant cashの額が30%上乗せされる。,3,A
+GHOST,SHINOBI,2,CLEANER,Body Bagを携行できる最大数が2つから3つに増える。 ゲーム開始時の所持数も1増える。,2,A,Body Bag Caseを2つ設置可能になる。,4,A
+GHOST,SHINOBI,2,SIXTH SENSE,ステルス中に自分が3.5秒静止すると、自分の半径10m内にいる人物がスポットされる。,2,A,このスキルを必要とするAssetsがアンロックされる。また、市民を殺害した時のクリーニングコストを75%削減する。,4,A
+GHOST,SHINOBI,3,NIMBLE,監視カメラをインタラクトすることで、同じ映像をループさせ、そのカメラを25秒間無効化する。自分か味方がそのカメラをスポットすることで効果を停止する。同時に無効化できるのは自分と仲間合わせて1つまで。,3,A,ピッキング速度が100%増加する。また、金庫をロックピックできるようになる。,6,A
+GHOST,SHINOBI,3,ECM OVERDRIVE,ECMのジャミングとフィードバックの持続時間が25%増加する。,3,A,ECM Jammerでキーカードを使うドアを解錠できるようになる。,6,A
+GHOST,SHINOBI,4,ECM SPECIALIST,ECM Jammerを2つ設置できるようになる。,4,A,ECM Jammerのジャミングとフィードバック機能の有効時間が25%増加する。ステルス中かつECMによるジャミングを実行中に警備員やPMCを殺害した、または降伏させた場合、効果が発揮されている間はPager応答を要求されない。(効果が切れた後に応答を要求される)。,8,A
+GHOST,ARTFUL DODGER,1,DUCK AND COVER,スタミナの回復開始までの時間を25%短縮、回復速度も25%増加する。また、スプリントが25%速くなる。,1,A,スプリント中の回避確率が10%増加する。また、Ziplineで移動中の回避確率が15%増加する。,3,A
+GHOST,ARTFUL DODGER,2,PARKOUR,移動速度が10%増加する。梯子を登るスピードが20%増加する。,2,A~B,あらゆる方向にスプリントできるようになる。<br><br>スプリント中もリロードが可能になる。,4,A~B
+GHOST,ARTFUL DODGER,2,INNER POCKETS,近接武器の隠密性が2増加する。,2,A,すべてのBallistic Vestの隠密性が4増加する。,4,A
+GHOST,ARTFUL DODGER,3,DIRE NEED,アーマーが無くなった時、自分が攻撃した敵を怯ませて行動不能にする。この能力はアーマーが回復するまで続く。,3,B,能力がアーマーが回復してからも6秒間続く。,6,B
+GHOST,ARTFUL DODGER,3,SHOCKPROOF,Taserのショック攻撃を受けた際、39%の確率でそのTaserがノックバックする。,3,B,Taserのショック攻撃を受けてから2秒間の間にそのテーザーをスポットすると、ショック攻撃から離脱することができる。,6,B
+GHOST,ARTFUL DODGER,4,SNEAKY BASTARD,Detection Riskが35を3ポイント下回る毎にDodgeが1%増加する。累積は10%まで。,4,B,Detection Riskが35を1ポイント下回る毎にDodgeが1%増加する。累積は10%まで。,8,B
+GHOST,SILENT KILLER,1,SECOND WIND,アーマーが破壊されてから5秒間移動速度が30%増加する。,1,B,効果が仲間にも影響するようになる。,3,B
+GHOST,SILENT KILLER,2,OPTICAL ILLUSIONS,敵から狙われる可能性が35%減少する。,2,B,消音武器を1つ装備する毎に隠密性を1増加する。またサイレンサーの隠密性ペナルティを2削減する。,4,A
+GHOST,SILENT KILLER,2,THE PROFESSIONAL,消音武器の安定性が8増加し、ADS移行速度が100%になる。,2,A,消音武器の精度が12増加する。,4,A
+GHOST,SILENT KILLER,3,LOW BLOW,Detection Riskの値が35を3ポイント下回る毎にクリティカルヒット確率が3%増加する。累積は30%まで。,3,B,Detection Riskの値が35を1ポイント下回る毎にクリティカルヒット確率が3%増加する。累積は30%まで。<br><br>注意:グレネードランチャーには適用されない。,6,B
+GHOST,SILENT KILLER,3,SPECIALIZED KILLING,消音武器の威力が15%増加する。,3,A,消音武器の威力がさらに15%増加する。,6,A
+GHOST,SILENT KILLER,4,UNSEEN STRIKE,6秒間ダメージを受けないでいると、6秒間クリティカルヒット確率が35%増加する。,4,B,効果時間が18秒間に延長される。,8,B
+FUGITIVE,GUNSLINGER,1,EQUILIBRIUM,ピストルとの武器の切り替え時間を33%短縮する。,1,A~B,全てのピストルの精度が8増加する。,3,A~B
+FUGITIVE,GUNSLINGER,2,GUN NUT,ピストルのマガジンサイズが5発増加する。,2,A~B,ピストルの発射レートが50%増加する。,4,A~B
+FUGITIVE,GUNSLINGER,2,AKIMBO,アキンボの安定性ペナルティを8軽減する。,2,A~B,アキンボの安定性ペナルティをさらに8軽減し、弾薬所持数を50%増加する。,4,A~B
+FUGITIVE,GUNSLINGER,3,ONE HANDED TALENT,ピストルの威力が5増加する。,3,B,ピストルの威力がさらに10増加する。,6,B
+FUGITIVE,GUNSLINGER,3,DESPERADO,ピストルの攻撃を外さずヒットさせるたびに、10秒間だけ精度に10%のボーナスを得る。これは4回までスタックする。,3,B,ピストルのリロード速度が50%早くなる。,6,B
+FUGITIVE,GUNSLINGER,4,TRIGGER HAPPY,ピストルの攻撃がヒットするたびに、2秒間だけ20%のダメージブーストを得る。これは4回までスタックする。,4,B,ダメージブーストの持続時間が10秒にまで増加する。,8,B
+FUGITIVE,REVENANT,1,NINE LIVES,ダウン中のヘルス量が50%増加する。,1,B,収監されるまでのダウン回数リミットが1回増加する。,3,B
+FUGITIVE,REVENANT,2,RUNNING FROM DEATH,蘇生された直後から10秒間、リロードと武器切り替え速度が100%早くなる。,2,B,蘇生された直後から10秒間、移動速度が30%早くなる。,4,B
+FUGITIVE,REVENANT,2,UP YOU GO,蘇生された直後から10秒間、被ダメージを30%軽減する。,2,B,蘇生された直後からヘルス量の最大値が40%増加する。,4,B
+FUGITIVE,REVENANT,3,SWAN SONG,ダウンの直前に、60%の移動速度ペナルティを受けた状態で、3秒間戦うことができる能力を得る。,3,B,"持続時間が6秒にまで増加する。また、""SWAN SONG""発動中は弾薬が無限になり、リロードも不要になる。",6,B
+FUGITIVE,REVENANT,3,FEIGN DEATH,ダウンした時に、15%の確率で即座に復活できる。,3,B,復活の確率がさらに30%増加する。,6,B
+FUGITIVE,REVENANT,4,MESSIAH,ダウン中に1体敵を倒すことで復活できるようになる。回数は1回のみ。,4,B,復活できる回数が、DoctorBagを使用することにより、リセットされるようになる。,8,B
+FUGITIVE,BRAWLER,1,MARTIAL ARTS,近接攻撃による被ダメージを50%軽減する。,1,B,近接攻撃のノックダウン値を50%増加する。,3,B
+FUGITIVE,BRAWLER,2,BLOODTHIRST,敵を倒すと、近接攻撃の威力が100%増加する。この効果は最大で300%までスタックできるが、近接攻撃が敵にヒットするとスタックがリセットされる。,2,B,敵を近接攻撃で倒すと、50秒間リロード速度が10増加する。,4,B
+FUGITIVE,BRAWLER,2,PUMPING IRON,通常隊員への近接攻撃の威力が100%増加する。,2,B,特殊隊員への近接攻撃の威力が100%増加する。,4,B
+FUGITIVE,BRAWLER,3,COUNTERSTRIKE,近接チャージ中に敵から近接攻撃を受けるとカウンターを発動し、敵がノックダウンする。このカウンターでダメージを与えることはできない。,3,B,Cloakerの蹴りに対してもカウンターができるようになる。,6,B
+FUGITIVE,BRAWLER,3,BERSERKER,ヘルス量が少ないほど威力が増加する。ヘルスが50%以下になると、近接攻撃とOver9000の威力が最大で250%増加する。,3,B,ヘルスが50%以下になると、銃の威力が最大で100%増加する。<br><br>注意:グレネードランチャーには適用されない。,6,B
+FUGITIVE,BRAWLER,4,FRENZY,最大ヘルス量が30%に制限され、ヘルスダメージを10%軽減し、ヘルスの回復量も75%減少する。,4,B,ヘルスダメージを25%軽減し、ヘルスの回復量も0%減少する。,8,B
